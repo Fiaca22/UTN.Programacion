@@ -1,3 +1,3 @@
 # UTN.Programacion
 
-aca subo los trabajos de cursada de programacion
+aca subo los trabajos de cursada en programacion
