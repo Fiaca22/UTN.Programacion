@@ -8,4 +8,3 @@ print ("lista post cambios:", lista)
 # Al modificar 'aux', también se modifica 'lista' 
 # porque ambas variables apuntan a la 
 # misma lista en memoria.
-# eaea
